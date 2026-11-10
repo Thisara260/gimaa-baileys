@@ -7,9 +7,9 @@
     <a href="https://github.com/"><img title="Blazing Fast" src="https://img.shields.io/badge/Speed-Blazing%20Fast-orange?style=for-the-badge&logo=fastly"></a>
     <a href="https://github.com/"><img title="Version" src="https://img.shields.io/badge/Version-1.0.0-blue?style=for-the-badge"></a>
     <a href="https://github.com//blob/main/LICENSE"><img title="License" src="https://img.shields.io/badge/License-MIT-green?style=for-the-badge"></a>
-    <a href="https://github.com/"><img title="Stars" src="https://img.shields.io/github/stars/Akashkavindu/GIMAA BAILEYS?style=for-the-badge&color=yellow"></a>
-    <a href="https://github.com/"><img title="Forks" src="https://img.shields.io/github/forks/Akashkavindu/GIMAA BAILEYS?style=for-the-badge&color=purple"></a>
-    <a href="https://github.com//issues"><img title="Issues" src="https://img.shields.io/github/issues/Akashkavindu/GIMAA BAILEYS?style=for-the-badge&color=red"></a>
+    <a href="https://github.com/"><img title="Stars" src="https://img.shields.io/github/stars/Thisara260/GIMAA BAILEYS?style=for-the-badge&color=yellow"></a>
+    <a href="https://github.com/"><img title="Forks" src="https://img.shields.io/github/forks/Thisara260/GIMAA BAILEYS?style=for-the-badge&color=purple"></a>
+    <a href="https://github.com//issues"><img title="Issues" src="https://img.shields.io/github/issues/Thisara260/GIMAA BAILEYS?style=for-the-badge&color=red"></a>
   </p>
   
   <p>
