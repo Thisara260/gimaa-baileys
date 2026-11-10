@@ -426,6 +426,6 @@ sock.ev.on('creds.update', saveCreds)
 ---
 
 <div align="center">
-  <p>Made with ❤️ byAkash Kavindu</p>
+  <p>Made with ❤️ by Thisara Gimhana</p>
 
 </div>
